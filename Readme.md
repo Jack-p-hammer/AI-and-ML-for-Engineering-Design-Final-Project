@@ -5,3 +5,5 @@ This was my final project for a class lead by Prof. Ahmed at MIT
 The semester covered many modern AI and ML techniques and culminated in a three week long final project
 
 My group decided to attempt to predict the weather! In order to help renewable energy companies establish solid predictions and forecasts for energy and financial modelling.
+
+![Final Poster pptx](https://github.com/user-attachments/assets/d3411428-c810-48bb-8255-bb70c14c359b)
